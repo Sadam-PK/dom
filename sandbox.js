@@ -13,6 +13,7 @@
 // const paras = document.getElementsByClassName('paras')
 // console.log(paras);
 
-const error = document.getElementById('error');
-error.innerText += ' opps!';
+// const error = document.getElementById('error');
+// error.innerText += ' opps!';
+
 
